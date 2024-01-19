@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eba3a7e4c556e446",
+        "id": "7e4fd1a5bb6aaee7",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfd22cf5a1792c7",
+            "id": "ffd375689fe24477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Definition/Electron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaf228c92e50e190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Radioactivity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec49dc9bb16ed738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Radioactivity.md",
+                "file": "Chemistry/Definition/Alpha particle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Definition/Radioactivity.md",
+                "file": "Chemistry/Definition/Alpha particle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Definition/Radioactivity.md",
+                "file": "Chemistry/Definition/Alpha particle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Definition/Radioactivity.md"
+                "file": "Chemistry/Definition/Alpha particle.md"
               }
             }
           },
@@ -179,20 +154,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec49dc9bb16ed738",
+  "active": "ffd375689fe24477",
   "lastOpenFiles": [
+    "Chemistry/Definition/Atom.md",
+    "Chemistry/Definition/Coulomb's Law.md",
+    "Chemistry/Definition/Element.md",
+    "Chemistry/Definition/Nucleus.md",
+    "Chemistry/Definition/Radioactivity.md",
+    "Assets/35d19bd524a36ee459dfa8c8ce9d69a1-atom-model-project-atomic-number.jpg",
+    "Chemistry/Definition/Proton.md",
+    "Chemistry/Definition/Electron.md",
     "Assets",
     "Assets/bur80413_0206.png",
-    "Chemistry/Definition/Radioactivity.md",
     "Chemistry/Definition/Gamma particle.md",
-    "Chemistry/Definition/Element.md",
-    "Chemistry/Definition/Electron.md",
     "Chemistry/Definition/Beta particle.md",
-    "Chemistry/Definition/Atom.md",
     "Chemistry/Definition/Alpha particle.md",
     "Chemistry/SI Units.md",
     "Chemistry/Significant Figures.md",
-    "Chemistry/Definition/Coulomb's Law.md",
     "subatomic particle.md",
     "Chemistry/Definition",
     "Chemistry",
