@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7e4fd1a5bb6aaee7",
+        "id": "650d43f39bee2be8",
         "type": "tabs",
         "children": [
           {
-            "id": "ffd375689fe24477",
+            "id": "2530796f9abc6dc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Definition/Alpha particle.md",
+                "file": "Chemistry/Definition/Isotopes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f94009737360a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Hydrogen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Definition/Alpha particle.md",
+                "file": "Chemistry/Definition/Isotopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Definition/Alpha particle.md",
+                "file": "Chemistry/Definition/Isotopes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Definition/Alpha particle.md"
+                "file": "Chemistry/Definition/Isotopes.md"
               }
             }
           },
@@ -154,21 +166,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffd375689fe24477",
+  "active": "cef89c0f812760ef",
   "lastOpenFiles": [
-    "Chemistry/Definition/Atom.md",
-    "Chemistry/Definition/Coulomb's Law.md",
     "Chemistry/Definition/Element.md",
+    "Chemistry/Definition/Isotopes.md",
+    "Chemistry/Definition/Hydrogen.md",
+    "Chemistry/Definition/Mass Number (A).md",
+    "Chemistry/Definition/Neutron.md",
+    "Assets/Pasted image 20240118181254.png",
+    "Assets/bur80413_un020302.png",
+    "Chemistry/Definition/Atomic Number (Z).md",
+    "Chemistry/Definition/Alpha particle.md",
+    "Chemistry/Definition/Subatomic particle.md",
+    "Assets/bur80413_un020301 1.png",
+    "Assets/bur80413_un020301.png",
+    "Chemistry/Definition/Nucleons.md",
+    "Chemistry/Definition/Proton.md",
+    "Chemistry/Definition/Electron.md",
+    "Chemistry/Definition/Coulomb's Law.md",
+    "Chemistry/Definition/Gamma particle.md",
+    "Chemistry/Definition/Atom.md",
     "Chemistry/Definition/Nucleus.md",
     "Chemistry/Definition/Radioactivity.md",
     "Assets/35d19bd524a36ee459dfa8c8ce9d69a1-atom-model-project-atomic-number.jpg",
-    "Chemistry/Definition/Proton.md",
-    "Chemistry/Definition/Electron.md",
     "Assets",
     "Assets/bur80413_0206.png",
-    "Chemistry/Definition/Gamma particle.md",
     "Chemistry/Definition/Beta particle.md",
-    "Chemistry/Definition/Alpha particle.md",
     "Chemistry/SI Units.md",
     "Chemistry/Significant Figures.md",
     "subatomic particle.md",
@@ -181,7 +204,6 @@
     "Notes",
     "C++",
     "Quick anaylsis of what the teacher wants for research paper.md",
-    "Time Managment.md",
     "Areas",
     "Projects",
     "Quick Captures",
