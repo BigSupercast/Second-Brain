@@ -1,6 +1,6 @@
 #chem 
 
-An electrically neutral [[Subatomic particle]] with a mass slightly greater than that of a [[proton]].
+An electrically neutral [[Subatomic particle]] with a mass slightly greater than that of a [[Proton]].
 
 ## Stats
 Mass: $1.67493\times10^{-24}g$

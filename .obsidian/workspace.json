@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "650d43f39bee2be8",
+        "id": "dc29436f75609b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "2530796f9abc6dc3",
+            "id": "4c212613e4c17dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Definition/Isotopes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f94009737360a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Hydrogen.md",
+                "file": "Chemistry/Definition/Chapter 3/Energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Definition/Isotopes.md",
+                "file": "Chemistry/Definition/Chapter 3/Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Definition/Isotopes.md",
+                "file": "Chemistry/Definition/Chapter 3/Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Definition/Isotopes.md"
+                "file": "Chemistry/Definition/Chapter 3/Energy.md"
               }
             }
           },
@@ -166,47 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cef89c0f812760ef",
+  "active": "4c212613e4c17dc6",
   "lastOpenFiles": [
-    "Chemistry/Definition/Element.md",
-    "Chemistry/Definition/Isotopes.md",
-    "Chemistry/Definition/Hydrogen.md",
-    "Chemistry/Definition/Mass Number (A).md",
-    "Chemistry/Definition/Neutron.md",
+    "Chemistry/Definition/Chapter 3/joule.md",
+    "Chemistry/Definition/Chapter 3/Energy.md",
+    "Chemistry/Definition/Chapter 3/Electrostatic.md",
+    "Chemistry/Definition/Chapter 3/Chemical Energy.md",
+    "Programming/Git/Commit.md",
+    "Bus Scheduler.md",
+    "Math Shit I need to work on.md",
+    "Chemistry/Definition/Chapter 2/Atomic Mass.md",
+    "Chemistry/Definition/Chapter 2/Periodic table.md",
+    "Chemistry/Definition/Chapter 2/Mixture.md",
+    "Chemistry/Definition/Chapter 3/Law of conservation of energy.md",
+    "Chemistry/Definition/Chapter 3/Potential Energy.md",
+    "Chemistry/Definition/Chapter 2/Coulomb's Law.md",
+    "Chemistry/Definition/Chapter 3/Thermal Energy.md",
+    "Chemistry/Definition/Chapter 3/Kinetic Energy.md",
+    "Chemistry/Definition/Chapter 2/Alkali metals.md",
+    "Chemistry/Definition/Chapter 3",
+    "Chemistry/Definition/Chapter 2/Neutron.md",
+    "Chemistry/Definition/Chapter 2/Electron.md",
+    "Chemistry/Definition/Chapter 2/Beta particle.md",
+    "Chemistry/Definition/Chapter 2/Alkaline earth metals.md",
+    "Chemistry/Definition/Chapter 2/Metal.md",
+    "Chemistry/Definition/Chapter 2/Transition metals.md",
+    "Chemistry/Definition/Chapter 2/Alpha particle.md",
+    "Chemistry/Definition/Chapter 2/Metalloid.md",
+    "Chemistry/Definition/Chapter 2/Mass Number (A).md",
+    "Chemistry/Definition/Chapter 2/Isotopes.md",
+    "Chemistry/Definition/Chapter 2",
+    "Assets/Pasted image 20240123214742.png",
+    "Assets/bur80413_0213.png",
+    "Assets/Pasted image 20240123214645.png",
+    "Assets/Pasted image 20240123212748.png",
+    "Assets/bur80413_un0204.png",
+    "Assets/bur80413_0210.png",
+    "Assets/Pasted image 20240123210531.png",
+    "Programming",
+    "Programming/Git",
+    "Calculus",
+    "Assets/bur80413_0110a.png",
+    "Assets/bur80413_0108.png",
     "Assets/Pasted image 20240118181254.png",
-    "Assets/bur80413_un020302.png",
-    "Chemistry/Definition/Atomic Number (Z).md",
-    "Chemistry/Definition/Alpha particle.md",
-    "Chemistry/Definition/Subatomic particle.md",
-    "Assets/bur80413_un020301 1.png",
-    "Assets/bur80413_un020301.png",
-    "Chemistry/Definition/Nucleons.md",
-    "Chemistry/Definition/Proton.md",
-    "Chemistry/Definition/Electron.md",
-    "Chemistry/Definition/Coulomb's Law.md",
-    "Chemistry/Definition/Gamma particle.md",
-    "Chemistry/Definition/Atom.md",
-    "Chemistry/Definition/Nucleus.md",
-    "Chemistry/Definition/Radioactivity.md",
-    "Assets/35d19bd524a36ee459dfa8c8ce9d69a1-atom-model-project-atomic-number.jpg",
     "Assets",
-    "Assets/bur80413_0206.png",
-    "Chemistry/Definition/Beta particle.md",
-    "Chemistry/SI Units.md",
-    "Chemistry/Significant Figures.md",
-    "subatomic particle.md",
     "Chemistry/Definition",
     "Chemistry",
-    "C++/Format Specifiers.md",
-    "Bus Scheduler.md",
-    "test note.md",
-    "C++/Getline.md",
     "Notes",
-    "C++",
-    "Quick anaylsis of what the teacher wants for research paper.md",
-    "Areas",
-    "Projects",
-    "Quick Captures",
-    "Quick Capture"
+    "Programming/C++"
   ]
 }
