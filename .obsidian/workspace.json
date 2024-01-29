@@ -18,8 +18,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1eacf7588e4f0fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Chapter 3/Electromagnetic Spectrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4db9c8e1fda0d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Chapter 3/Wave.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "814a4ff1548efb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Chapter 3/Electromagnetic Spectrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9989bf3aea9740ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Chapter 3/Photoelectric Effect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c5e6a842336e4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Chapter 3/Atomic Line Spectra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b029eca75256d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Chapter 3/Planck's constant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05ddce325e7040bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Chapter 3/Hydrogen Spectrum Lines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05243b8303766214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Definition/Chapter 3/Photon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -69,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.01103591918945
   },
   "right": {
     "id": "25604f5d653b01e4",
@@ -85,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Definition/Chapter 3/Energy.md",
+                "file": "Chemistry/Definition/Chapter 3/Planck's constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Definition/Chapter 3/Energy.md",
+                "file": "Chemistry/Definition/Chapter 3/Planck's constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Definition/Chapter 3/Energy.md"
+                "file": "Chemistry/Definition/Chapter 3/Planck's constant.md"
               }
             }
           },
@@ -154,53 +251,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c212613e4c17dc6",
+  "active": "7b029eca75256d37",
   "lastOpenFiles": [
-    "Chemistry/Definition/Chapter 3/joule.md",
+    "Chemistry/Definition/Chapter 3/Hydrogen Spectrum Lines.md",
+    "Chemistry/Definition/Chapter 3/Planck's constant.md",
+    "Chemistry/Definition/Chapter 3/Wave.md",
+    "Chemistry/Definition/Chapter 2/Nucleus.md",
     "Chemistry/Definition/Chapter 3/Energy.md",
-    "Chemistry/Definition/Chapter 3/Electrostatic.md",
-    "Chemistry/Definition/Chapter 3/Chemical Energy.md",
-    "Programming/Git/Commit.md",
-    "Bus Scheduler.md",
-    "Math Shit I need to work on.md",
-    "Chemistry/Definition/Chapter 2/Atomic Mass.md",
-    "Chemistry/Definition/Chapter 2/Periodic table.md",
-    "Chemistry/Definition/Chapter 2/Mixture.md",
-    "Chemistry/Definition/Chapter 3/Law of conservation of energy.md",
-    "Chemistry/Definition/Chapter 3/Potential Energy.md",
-    "Chemistry/Definition/Chapter 2/Coulomb's Law.md",
-    "Chemistry/Definition/Chapter 3/Thermal Energy.md",
-    "Chemistry/Definition/Chapter 3/Kinetic Energy.md",
-    "Chemistry/Definition/Chapter 2/Alkali metals.md",
-    "Chemistry/Definition/Chapter 3",
-    "Chemistry/Definition/Chapter 2/Neutron.md",
+    "Chemistry/Definition/Chapter 3/joule.md",
     "Chemistry/Definition/Chapter 2/Electron.md",
-    "Chemistry/Definition/Chapter 2/Beta particle.md",
-    "Chemistry/Definition/Chapter 2/Alkaline earth metals.md",
-    "Chemistry/Definition/Chapter 2/Metal.md",
-    "Chemistry/Definition/Chapter 2/Transition metals.md",
-    "Chemistry/Definition/Chapter 2/Alpha particle.md",
-    "Chemistry/Definition/Chapter 2/Metalloid.md",
-    "Chemistry/Definition/Chapter 2/Mass Number (A).md",
-    "Chemistry/Definition/Chapter 2/Isotopes.md",
+    "Chemistry/Definition/Chapter 3/ground state.md",
+    "Chemistry/Definition/Chapter 3/excited state.md",
+    "Chemistry/Definition/Chapter 3/Atomic Line Spectra^.md",
+    "Chemistry/Definition/Chapter 3/Frequency.md",
+    "Chemistry/Definition/Chapter 3/Emission Spectra.md",
+    "Chemistry/Definition/Chapter 3/Electrostatic.md",
+    "Chemistry/Definition/Chapter 3/Electromagnetic Wave.md",
+    "Chemistry/Definition/Chapter 3/Electromagnetic Spectrum.md",
+    "Chemistry/Definition/Chapter 3/Chemical Energy.md",
+    "Chemistry/Definition/Chapter 3/Atomic Line Spectra.md",
+    "Chemistry/Definition/Chapter 3/Amplitude.md",
+    "Chemistry/Definition/Chapter 3/Thermal Energy.md",
+    "Chemistry/Definition/Chapter 3/Wavelength.md",
+    "Chemistry/Definition/Chapter 3/Threshold Frequency.md",
+    "Chemistry/Definition/Chapter 3/Speed of Light.md",
+    "Chemistry/Definition/Chapter 3/Rydberg Constant.md",
+    "Chemistry/Definition/Chapter 3/Quantum.md",
+    "Chemistry/Definition/Chapter 3/Potential Energy.md",
+    "Chemistry/Definition/Chapter 3/Photon.md",
+    "Assets/bur80413_0309.png",
+    "Assets/bur80413_0308.png",
+    "Assets/Pasted image 20240128195138.png",
+    "Assets/bur80413_0307.png",
+    "Assets/bur80413_0305.png",
+    "trash",
+    "Assets/Pasted image 20240126173720.png",
+    "Assets/bur80413_0303.png",
+    "Assets/bur80413_0302.png",
+    "Assets/bur80413_0301.png",
+    "Chemistry/Definition/Chapter 3",
     "Chemistry/Definition/Chapter 2",
     "Assets/Pasted image 20240123214742.png",
-    "Assets/bur80413_0213.png",
-    "Assets/Pasted image 20240123214645.png",
-    "Assets/Pasted image 20240123212748.png",
-    "Assets/bur80413_un0204.png",
-    "Assets/bur80413_0210.png",
-    "Assets/Pasted image 20240123210531.png",
     "Programming",
     "Programming/Git",
     "Calculus",
-    "Assets/bur80413_0110a.png",
-    "Assets/bur80413_0108.png",
-    "Assets/Pasted image 20240118181254.png",
     "Assets",
     "Chemistry/Definition",
     "Chemistry",
-    "Notes",
-    "Programming/C++"
+    "Notes"
   ]
 }

@@ -7,3 +7,7 @@
 
 The most common form of hydrogen only has one [[Proton]] and no [[Neutron]]s. 
 Hydrogen is the only element with different names for its isotopes
+
+
+## More info
+- [[Hydrogen Spectrum Lines]]
