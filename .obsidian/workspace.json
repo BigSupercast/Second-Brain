@@ -4,119 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "dc29436f75609b3a",
+        "id": "41668de5a1691e5c",
         "type": "tabs",
         "children": [
           {
-            "id": "4c212613e4c17dc6",
+            "id": "6996e4007d962246",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Chapter 3/Energy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "1eacf7588e4f0fc5",
+            "id": "0666cf423635968b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Definition/Chapter 3/Electromagnetic Spectrum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4db9c8e1fda0d75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Chapter 3/Wave.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "814a4ff1548efb0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Chapter 3/Electromagnetic Spectrum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9989bf3aea9740ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Chapter 3/Photoelectric Effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c5e6a842336e4f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Chapter 3/Atomic Line Spectra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b029eca75256d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Chapter 3/Planck's constant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05ddce325e7040bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Chapter 3/Hydrogen Spectrum Lines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05243b8303766214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/Definition/Chapter 3/Photon.md",
+                "file": "Evolution of electronics quiz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
+      },
+      {
+        "id": "f5a59aa37acba528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca5fc9afd766dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "theoreti",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.01103591918945
+    "width": 231.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "25604f5d653b01e4",
@@ -182,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/Definition/Chapter 3/Planck's constant.md",
+                "file": "Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +130,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Definition/Chapter 3/Planck's constant.md",
-                "linksCollapsed": false,
+                "file": "Questions.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -222,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Definition/Chapter 3/Planck's constant.md"
+                "file": "Questions.md"
               }
             }
           },
@@ -251,19 +182,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b029eca75256d37",
+  "active": "7e23d7d33e74b38d",
   "lastOpenFiles": [
-    "Chemistry/Definition/Chapter 3/Hydrogen Spectrum Lines.md",
+    "Evolution of electronics quiz.md",
+    "Questions.md",
+    "Assets/Pasted image 20240205214039.png",
+    "Assets/Pasted image 20240205213900.png",
+    "Assets/Pasted image 20240205213634.png",
+    "Assets/Pasted image 20240205213040.png",
+    "Assets/Pasted image 20240205212348.png",
+    "Assets/Pasted image 20240205212316.png",
+    "Assets/Pasted image 20240205211802.png",
+    "Assets/Pasted image 20240205210635.png",
+    "Assets/Pasted image 20240205205900.png",
+    "Assets/Pasted image 20240205204939.png",
+    "Lab/Percentage Yield.md",
+    "Lab/Experimental Yield.md",
+    "Lab/Theoretical Yield.md",
+    "Lab/limiting reagent.md",
+    "Lab",
+    "Chemistry/Definition/Chapter 3/Kinetic Energy.md",
+    "Chemistry/SI Units.md",
+    "Chemistry/Definition/Chapter 3/Photon.md",
+    "Chemistry/Definition/Chapter 3/Potential Energy.md",
     "Chemistry/Definition/Chapter 3/Planck's constant.md",
-    "Chemistry/Definition/Chapter 3/Wave.md",
-    "Chemistry/Definition/Chapter 2/Nucleus.md",
-    "Chemistry/Definition/Chapter 3/Energy.md",
-    "Chemistry/Definition/Chapter 3/joule.md",
-    "Chemistry/Definition/Chapter 2/Electron.md",
+    "Chemistry/Definition/Chapter 3/Hydrogen Spectrum Lines.md",
     "Chemistry/Definition/Chapter 3/ground state.md",
-    "Chemistry/Definition/Chapter 3/excited state.md",
-    "Chemistry/Definition/Chapter 3/Atomic Line Spectra^.md",
     "Chemistry/Definition/Chapter 3/Frequency.md",
+    "Chemistry/Definition/Chapter 3/excited state.md",
+    "Chemistry/Definition/Chapter 3/Energy.md",
     "Chemistry/Definition/Chapter 3/Emission Spectra.md",
     "Chemistry/Definition/Chapter 3/Electrostatic.md",
     "Chemistry/Definition/Chapter 3/Electromagnetic Wave.md",
@@ -271,33 +218,17 @@
     "Chemistry/Definition/Chapter 3/Chemical Energy.md",
     "Chemistry/Definition/Chapter 3/Atomic Line Spectra.md",
     "Chemistry/Definition/Chapter 3/Amplitude.md",
-    "Chemistry/Definition/Chapter 3/Thermal Energy.md",
     "Chemistry/Definition/Chapter 3/Wavelength.md",
+    "Chemistry/Definition/Chapter 3/Wave.md",
     "Chemistry/Definition/Chapter 3/Threshold Frequency.md",
-    "Chemistry/Definition/Chapter 3/Speed of Light.md",
-    "Chemistry/Definition/Chapter 3/Rydberg Constant.md",
-    "Chemistry/Definition/Chapter 3/Quantum.md",
-    "Chemistry/Definition/Chapter 3/Potential Energy.md",
-    "Chemistry/Definition/Chapter 3/Photon.md",
-    "Assets/bur80413_0309.png",
-    "Assets/bur80413_0308.png",
-    "Assets/Pasted image 20240128195138.png",
-    "Assets/bur80413_0307.png",
-    "Assets/bur80413_0305.png",
     "trash",
-    "Assets/Pasted image 20240126173720.png",
-    "Assets/bur80413_0303.png",
-    "Assets/bur80413_0302.png",
-    "Assets/bur80413_0301.png",
     "Chemistry/Definition/Chapter 3",
     "Chemistry/Definition/Chapter 2",
-    "Assets/Pasted image 20240123214742.png",
     "Programming",
     "Programming/Git",
     "Calculus",
     "Assets",
     "Chemistry/Definition",
-    "Chemistry",
-    "Notes"
+    "Chemistry"
   ]
 }

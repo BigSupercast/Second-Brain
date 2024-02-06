@@ -1,0 +1,1 @@
+The actual amount of product you obtain when performing a given experiment.

@@ -33,5 +33,25 @@ As the electron moves up energy levels (n) the more light ([[Photon]]s) are emit
 - $E_i=\text{The initial energy level}$
 - $E_f=\text{The final energy level}$
 $$\Delta E=E_f-E_i$$
-Knowing this we can find the change of energy level
+Knowing this we can find the difference between the energies of the initial and final states
 $$\Delta E=h\nu=-2.18\times10^{-18}J(\frac{1}{n^2_f}-\frac{1}{n^2_i})$$
+remember a photon uses $h\nu$ ![[photon]]
+- A [[photon]] is only emitted when $n_i>n_f$, so when $\Delta E$ is negative. [[Threshold Frequency]]
+- A photon is absorbed when $n_f > n_i$, so when $\Delta E$ is positive. [[Threshold Frequency]]
+
+
+The brightness of the spectral lines depend on how many photons of the same wavelength are emitted. 
+
+## Wave length of Emission Lines
+
+$$\frac{1}{\lambda}=\frac{2.18\times10^{-18}J}{hc} (\frac{1}{n^2_f}-\frac{1}{n^2_i})$$ Take the abs value of this answer because a wave can only be positive.
+
+## Emission Series in the Hydrogen Spectrum
+| Series | $n_f$ | $n_i$ | Spectrum Region |
+| ---- | ---- | ---- | ---- |
+| Lyman | 1 | 2, 3, 4, ... | Ultraviolet |
+| Balmer | 2 | 3, 4, 5, ... | Visible and ultraviolet |
+| Paschen | 3 | 4, 5, 6, ... | Infrared |
+| Brackett | 4 | 5, 6, 7, ... | Infrared |
+ ![[Pasted image 20240129003307.png]]
+ The difference between 1 and 2 is greater than the difference between 6 and 7.
