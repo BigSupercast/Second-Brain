@@ -1,3 +1,0 @@
-#chem 
-
-High-energy radiation.

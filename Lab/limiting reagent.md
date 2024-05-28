@@ -1,1 +1,0 @@
-The limiting reactant that gets consumed first in a chemical reaction and therefore limits how much product can be formed. 

@@ -4,43 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41668de5a1691e5c",
+        "id": "3a64f2d38b43147b",
         "type": "tabs",
         "children": [
           {
-            "id": "6996e4007d962246",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0666cf423635968b",
+            "id": "c6380d5e821ffb64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolution of electronics quiz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f5a59aa37acba528",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eca5fc9afd766dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions.md",
+                "file": "Applications/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theoreti",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.01103591918945,
-    "collapsed": true
+    "width": 231.01103591918945
   },
   "right": {
     "id": "25604f5d653b01e4",
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "Applications/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "Applications/Git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "Applications/Git.md"
               }
             }
           },
@@ -184,51 +156,51 @@
   },
   "active": "7e23d7d33e74b38d",
   "lastOpenFiles": [
-    "Evolution of electronics quiz.md",
+    "Assets",
+    "Assets/github-flow.png",
+    "Assets/Frame 1 (1).webp",
+    "I love being Dramatic/I love being dramatic.md",
+    "Applications/Git.md",
+    "Applications",
+    "Concepts",
     "Questions.md",
+    "Evolution of electronics quiz.md",
+    "Assets/bur80413_0108.png",
+    "I love being Dramatic",
+    "Music",
+    "trash/Gym.md",
+    "trash/Bus Scheduler.md",
+    "Programming/Git/Repository.md",
+    "Programming/Git/Commit.md",
+    "Programming/C++/Format Specifiers.md",
+    "Programming/C++/Getline.md",
+    "Lab/limiting reagent.md",
+    "Lab/Theoretical Yield.md",
+    "Lab/Percentage Yield.md",
+    "Lab/Experimental Yield.md",
+    "Final Paper/Quantum Computers.md",
+    "Final Paper/entanglement.md",
+    "Final Paper/quantum bits.md",
+    "Final Paper/superposition.md",
+    "Assets/m_nwy153fig1.jpeg",
+    "Assets/Pasted image 20240428194946.png",
+    "Final Paper",
+    "Chemistry/Definition/Chapter 2/Periodic table.md",
+    "Chemistry/Definition/Chapter 2/Isotopes.md",
     "Assets/Pasted image 20240205214039.png",
     "Assets/Pasted image 20240205213900.png",
     "Assets/Pasted image 20240205213634.png",
     "Assets/Pasted image 20240205213040.png",
     "Assets/Pasted image 20240205212348.png",
-    "Assets/Pasted image 20240205212316.png",
-    "Assets/Pasted image 20240205211802.png",
-    "Assets/Pasted image 20240205210635.png",
-    "Assets/Pasted image 20240205205900.png",
-    "Assets/Pasted image 20240205204939.png",
-    "Lab/Percentage Yield.md",
-    "Lab/Experimental Yield.md",
-    "Lab/Theoretical Yield.md",
-    "Lab/limiting reagent.md",
     "Lab",
     "Chemistry/Definition/Chapter 3/Kinetic Energy.md",
     "Chemistry/SI Units.md",
     "Chemistry/Definition/Chapter 3/Photon.md",
     "Chemistry/Definition/Chapter 3/Potential Energy.md",
     "Chemistry/Definition/Chapter 3/Planck's constant.md",
-    "Chemistry/Definition/Chapter 3/Hydrogen Spectrum Lines.md",
-    "Chemistry/Definition/Chapter 3/ground state.md",
-    "Chemistry/Definition/Chapter 3/Frequency.md",
-    "Chemistry/Definition/Chapter 3/excited state.md",
-    "Chemistry/Definition/Chapter 3/Energy.md",
-    "Chemistry/Definition/Chapter 3/Emission Spectra.md",
-    "Chemistry/Definition/Chapter 3/Electrostatic.md",
-    "Chemistry/Definition/Chapter 3/Electromagnetic Wave.md",
-    "Chemistry/Definition/Chapter 3/Electromagnetic Spectrum.md",
-    "Chemistry/Definition/Chapter 3/Chemical Energy.md",
-    "Chemistry/Definition/Chapter 3/Atomic Line Spectra.md",
-    "Chemistry/Definition/Chapter 3/Amplitude.md",
-    "Chemistry/Definition/Chapter 3/Wavelength.md",
-    "Chemistry/Definition/Chapter 3/Wave.md",
-    "Chemistry/Definition/Chapter 3/Threshold Frequency.md",
     "trash",
     "Chemistry/Definition/Chapter 3",
     "Chemistry/Definition/Chapter 2",
-    "Programming",
-    "Programming/Git",
-    "Calculus",
-    "Assets",
-    "Chemistry/Definition",
-    "Chemistry"
+    "Programming"
   ]
 }
